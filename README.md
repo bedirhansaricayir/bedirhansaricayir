@@ -5,9 +5,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bedirhansaricayir) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bedirhansaricayir) 
 
-<a href="https://linkedin.com/in/bedirhansaricayir" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="100" /></a>
-<a href="https://medium.com/@bedirhansaricayir" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" width ="100" height="100" /></a>
-
 
 
 # 💻 Tech Stack:
